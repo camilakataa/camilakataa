@@ -1,3 +1,8 @@
+## Sobre Mim
+### Sempre gostei de tecnologia, então comecei a estudar HTML, CSS, JavaScript e estou me aperfeiçoando em desenvolvimento web. Agora estou em busca do meu primeiro emprego para realizar minha transição de carreira. Para isso, mesmo ainda sem experiência, criei um portfólio do zero para mostrar os meus conhecimentos adquiridos nesse período.
+
+<br>
+
 <div>
   <a href="https://github.com/camilakataa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilakataa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
