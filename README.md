@@ -6,7 +6,7 @@
 B.S. of civil engineer at UNIFEI (Universidade Federal de Itajubá). I acted in the field for 3 years and 9 months. At this time I took interest in web development and decided change my career.<br>
 Over the past year I've been studying the new field of interest. Which lead me to gain experience with HTML, CSS, JavaScript, React and others.<br>
 I have a portfolio that showcases all my personal projects and achievements. It can be seen in [Mini Portfolio Card](https://camilakataa.github.io/mini-portfolio-card/).<br>
-I have a calm, insightful with a stable personality, that helps to work with a team. I'am also very dependable, detail-oriented and a fast-learner.
+I'm a calm and insightful person with a stable personality, that helps to work with a team. I'am also very dependable, detail-oriented and a fast-learner.
 
 ## GitHub Stats
 
