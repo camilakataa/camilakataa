@@ -1,13 +1,14 @@
 # Camila Katayama
 
 <p align="center">
-  <img alt="Calm Workspace" src="/workspace.gif">
+  <img alt="Calm Workspace" src=".github/images/workspace.gif">
 </p>
 
 ## About Me
+
 <table>
 <th>
-  <img alt="Camila's Octocat" src="/my-octocat.png">
+  <img alt="Camila's Octocat" src=".github/images/my-octocat.png">
 </th>
   <th>
     B.S. of civil engineer at UNIFEI (Universidade Federal de Itajubá). I acted in the field for 3 years and 9 months. At this time I took interest in web development and decided change my career.<br>
@@ -16,12 +17,12 @@
     I'm a calm and insightful person with a stable personality, that helps to work with a team. I'am also very dependable, detail-oriented and a fast-learner.
   </th>
 <table>
+
 ## GitHub Stats
 
   <a href="https://github.com/camilakataa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilakataa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilakataa&layout=compact&langs_count=6&theme=tokyonight"/>
-
 
 ## Abilities
 
