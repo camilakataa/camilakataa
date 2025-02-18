@@ -8,10 +8,13 @@
 
   <img width="140px" align="right" alt="Camila's Octocat" src=".github/images/my-octocat.png">
 
-B.S. of civil engineer at UNIFEI (Universidade Federal de Itajubá). I acted in the field for 3 years and 9 months. At this time I took interest in web development and decided change my career.<br>
-Over the past year I've been studying the new field of interest. Which lead me to gain experience with HTML, CSS, JavaScript, React and others.<br>
-I have a portfolio that showcases all my personal projects and achievements. It can be seen in [Mini Portfolio Card](https://camilakataa.github.io/mini-portfolio-card/).<br>
-I'm a calm and insightful person with a stable personality, that helps to work with a team. I'am also very dependable, detail-oriented and a fast-learner.
+B.S. of civil engineer at UNIFEI (Universidade Federal de Itajubá). with almost four years of experience in the field. I have always enjoyed working with spreadsheet optimization, software, and learning new technologies, which sparked my interest in gaining knowledge in the field of software development and led me to pursue a career transition.<br>
+
+In addition to studying at IFFar, I gained knowledge through the Compass UOL scholarship program and online courses, gaining experience with real projects using Front-End technologies such as HTML, CSS, TypeScript, and React. I also acquired cloud computing knowledge in AWS and hold the AWS Cloud Practitioner certification.<br>
+My personal projects can be viewed in my portfolio at the following link:<br>
+ [Mini Portfolio Card](https://camilakataa.github.io/mini-portfolio-card/).<br>
+
+I have an analytical and well-structured mindset, which helps me work effectively in a team. I am practical, detail-oriented, and a fast learner.
 
 
 ## GitHub Stats
